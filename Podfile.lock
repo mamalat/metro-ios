@@ -1,0 +1,54 @@
+PODS:
+  - Cartography (4.0.0)
+  - DeviceKit (2.0.0)
+  - IGListKit (3.4.0):
+    - IGListKit/Default (= 3.4.0)
+  - IGListKit/Default (3.4.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.4.0)
+  - Localize-Swift (2.0.0)
+  - Nimble (8.0.2)
+  - Quick (2.1.0)
+  - Realm (3.17.0):
+    - Realm/Headers (= 3.17.0)
+  - Realm/Headers (3.17.0)
+  - RealmSwift (3.17.0):
+    - Realm (= 3.17.0)
+  - Reveal-SDK (23)
+
+DEPENDENCIES:
+  - Cartography (~> 4.0)
+  - DeviceKit (~> 2.0)
+  - IGListKit (~> 3.4)
+  - Localize-Swift (~> 2.0)
+  - Nimble (~> 8.0)
+  - Quick (~> 2.1)
+  - RealmSwift (~> 3.16)
+  - Reveal-SDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cartography
+    - DeviceKit
+    - IGListKit
+    - Localize-Swift
+    - Nimble
+    - Quick
+    - Realm
+    - RealmSwift
+    - Reveal-SDK
+
+SPEC CHECKSUMS:
+  Cartography: c5626d29056b20f1e95c017326ee4df57cc39ad8
+  DeviceKit: 72d36709552d4b3582abd76a53949148acad9811
+  IGListKit: 7a5d788e9fb746bcd402baa8e8b24bc3bd2a5a07
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  Nimble: 622629381bda1dd5678162f21f1368cec7cbba60
+  Quick: 4be43f6634acfa727dd106bdf3929ce125ffa79d
+  Realm: b30db41ff34fc858ffc25ba8d44a82c164e7ccd0
+  RealmSwift: fe733e459d60dc7b6971d4cbee2eb4854097d12c
+  Reveal-SDK: bb223749b198a2b9bad6043ec6ad748f99e7abe5
+
+PODFILE CHECKSUM: 3eaffae14547d78ef3fea785087099b6d55e2428
+
+COCOAPODS: 1.7.3

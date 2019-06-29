@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Metro
+
+  Created by Iaroslav Mamalat on 2019-06-23.
+  Copyright © 2019 Iaroslav Mamalat. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Kyiv Metro";

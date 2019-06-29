@@ -1,0 +1,8 @@
+app_identifier("com.mamalat.Metro") # The bundle identifier of your app
+apple_id("dev@mamalat.com") # Your Apple email address
+
+itc_team_id("118082848") # App Store Connect Team ID
+team_id("385KB4FZ4A") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

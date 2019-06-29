@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Metro
+
+  Created by Iaroslav Mamalat on 2019-06-21.
+  Copyright © 2019 Iaroslav Mamalat. All rights reserved.
+*/
+
+"kyiv" = "Kyiv";
+"where-to" = "Where to?";
+"from" = "From";
+"to" = "To";
+"directions" = "Directions";
+"get-directions" = "Get directions";
+"no-station-with-this-name" = "No station with this name";
+"change-line" = "Change line";
+"back" = "Back";
+"switch-language" = "Switch language";
+"cancel" = "Cancel";
+"language" = "Language";
+"pozniaky" = "Pozniaky";
+"olimpiiska" = "Olimpiiska";
